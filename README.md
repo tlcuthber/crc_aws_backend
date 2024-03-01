@@ -29,6 +29,6 @@ The Cloud Resume Challenge was developed by Forrest Brazeal. The goal of the cha
     - [ ] Blog
 
 ## Links
-[My Cloud Resume](https://www.toyokocuthbert.com)
-[LinkedIn](https://www.linkedin.com/in/toyokocuthbert/)
-[Frontend Repo](https://github.com/y0k0r/crc-aws-frontend)
+- [My Cloud Resume](https://www.toyokocuthbert.com)
+- [LinkedIn](https://www.linkedin.com/in/toyokocuthbert/)
+- [Frontend Repo](https://github.com/y0k0r/crc-aws-frontend)

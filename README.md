@@ -20,7 +20,7 @@ The Cloud Resume Challenge was developed by Forrest Brazeal. The goal of the cha
  - [X] Chunk 3: Front-end / back-end integration
     - [X] Javascript to display visitor counter
     - [X] Tests
- - [ ] Chunk 4: Automation / CI
+ - [X] Chunk 4: Automation / CI
     - [X] IaC - Will be using Terraform
     - [X] CI/CD
         - [X] Backend
